@@ -1,0 +1,9 @@
+myportfolio/
+│
+├── index.html         (Who Am I)
+├── skills.html        (Skills & Education)
+├── works.html         (Sample Works)
+├── brands.html        (Brands & Testimonials)
+├── contact.html       (Contact Me)
+├── style.css
+└── script.js
