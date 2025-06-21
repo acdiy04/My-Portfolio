@@ -1,3 +1,4 @@
+
 /* style.css */
 :root {
     --bg: #f5f3e7;
@@ -112,4 +113,3 @@
     .container { padding: 1rem; }
     nav { flex-direction: column; gap: 1rem; }
   }
-
